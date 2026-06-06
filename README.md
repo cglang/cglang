@@ -14,8 +14,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
 ![Python](https://img.shields.io/badge/Python-3776AB)
-
-**GitHub Stats:**
-
-![Han's Github Stats](https://github-readme-stats.vercel.app/api?username=cglang&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cglang&layout=compact)
